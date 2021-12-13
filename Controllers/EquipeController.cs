@@ -21,9 +21,9 @@ namespace E_JOGOSS.Controllers
 
 
 
-        public IActionResult Cadastrar(IFormCollection form)
+        /*public IActionResult Cadastrar(IFormCollection form)
         {
 
-        }
+        }*/
     }
 }
